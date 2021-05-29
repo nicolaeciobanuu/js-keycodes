@@ -1,0 +1,2 @@
+(this["webpackJsonpjs-keycodes"]=this["webpackJsonpjs-keycodes"]||[]).push([[0],{10:function(e,t,n){"use strict";n.r(t);var c=n(0),s=n.n(c),o=n(3),r=n.n(o),d=(n(8),n(1)),i=function(){return document.title="JS-KeyCodes",Object(d.jsx)("div",{children:"App here"})};r.a.render(Object(d.jsx)(s.a.StrictMode,{children:Object(d.jsx)(i,{})}),document.getElementById("root"))},8:function(e,t,n){}},[[10,1,2]]]);
+//# sourceMappingURL=main.de2a5621.chunk.js.map
